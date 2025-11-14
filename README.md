@@ -16,10 +16,10 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment8  
 
 Files:
-db_connect.php
-upload_form.php
-upload.php
-uploads/  (directory for uploaded files)
+- db_connect.php
+- upload_form.php
+- upload.php
+- uploads/  (directory for uploaded files)
 
 ### 3. Run
 MAMP:  
